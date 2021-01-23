@@ -4,4 +4,6 @@
 yarn outdated
 
 yarn upgrade
+
+npx yarn-upgrade-all
 ```
